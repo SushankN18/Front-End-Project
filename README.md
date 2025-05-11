@@ -17,12 +17,12 @@ Transaction Dashboard: Monitor all recent transactions and analyze income/expens
 
 Rewards Integration: Identify credit cards with the best cashback, rewards, and offers tailored to users.
 
-#Advanced Analytics
+# Advanced Analytics
 Online Analysis Panel: Real-time financial graphs and smart spending insights.
 
 Card Scanning: Fast and secure credit card scanning feature with 4-minute onboarding.
 
-#Cross-Platform Integration
+# Cross-Platform Integration
 Supported Gateways: Works with PayPal, Visa, MasterCard, and Shopify.
 
 Mobile Access: App Store and Google Play options for on-the-go control.
